@@ -5,7 +5,7 @@ I am a quantitative researcher/data scientist and social scientist with expertis
 - 🔭 I’m currently working on an application of Large Language Models
 - 🌱 I’m currently reading 'Designing Machine Learning Systems' by Chip Hueyn
 - 🎓 I've taught grad courses on [Multilevel/Hierarchical Modeling](https://github.com/ConstanzaSchibber/Teaching-MultilevelModeling), [Generalized Linear Modeling](https://github.com/ConstanzaSchibber/Generalized-Linear-Models), and [Math for Social Sciences](https://github.com/ConstanzaSchibber/Math-For-SocialScience) 
-- 😄 Pronouns: She/her
+- 👩🏻‍🔧 Pronouns: She/her
 <!--
 **ConstanzaSchibber/ConstanzaSchibber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
