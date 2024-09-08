@@ -2,9 +2,9 @@
 
 I am a quantitative researcher/data scientist and social scientist with expertise in machine learning, statistical modeling, Bayesian statistics, causal inference, and experimentation.
 
-- 🔭 I’m working on an application of Large Language Models
+- 🔭 I’m on shaping design, integration, evaluation, and foundational research for AI/LLM-powered products
 - 🌱 I’m currently reading 'Designing Machine Learning Systems' by Chip Hueyn
-- 🔍 I'm working on a [Machine Learning Engineering](https://github.com/ConstanzaSchibber/mec-mini-projects) certification at UCSD 
+- 🔍 I completed a [Machine Learning Engineering](https://github.com/ConstanzaSchibber/mec-mini-projects) certification at UCSD and my [capstone]([https://github.com/ConstanzaSchibber/capstone_colors](https://github.com/ConstanzaSchibber/capstone_colors/blob/main/README.md)) was an end-to-end project on advancing color matching for makeup. 
 - 🎓 I've taught grad courses on [Generalized Linear Modeling](https://github.com/ConstanzaSchibber/Generalized-Linear-Models), [Multilevel/Hierarchical Modeling](https://github.com/ConstanzaSchibber/Teaching-MultilevelModeling), and [Math for Social Sciences](https://github.com/ConstanzaSchibber/Math-For-SocialScience)
 - 👩🏻‍🔧 Pronouns: She/her
 <!--
