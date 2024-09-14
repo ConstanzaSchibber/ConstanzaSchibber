@@ -4,7 +4,7 @@ I am a quantitative researcher/data scientist and social scientist with expertis
 
 - 🔭 I’m working on shaping design, integration, evaluation, and foundational research for AI/LLM-powered products
 - 🌱 I’m currently reading 'Designing Machine Learning Systems' by Chip Hueyn
-- 🔍 I completed a [Machine Learning Engineering](https://github.com/ConstanzaSchibber/mec-mini-projects) program at UCSD and my [final project](https://github.com/ConstanzaSchibber/capstone_colors/blob/main/README.md) was an end-to-end project that levaraged ML techniques and Multimodal LLMs to advance color matching for makeup. 
+- 🔍 I completed a [Machine Learning Engineering](https://github.com/ConstanzaSchibber/mec-mini-projects) program at UCSD and my [final end-to-end project](https://github.com/ConstanzaSchibber/capstone_colors/blob/main/README.md) levaraged ML techniques and Multimodal LLMs to advance color matching for makeup. 
 - 🎓 I've taught grad courses on [Generalized Linear Modeling](https://github.com/ConstanzaSchibber/Generalized-Linear-Models), [Multilevel/Hierarchical Modeling](https://github.com/ConstanzaSchibber/Teaching-MultilevelModeling), and [Math for Social Sciences](https://github.com/ConstanzaSchibber/Math-For-SocialScience)
 - 👩🏻‍🔧 Pronouns: She/her
 <!--
